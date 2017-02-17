@@ -2,7 +2,7 @@
 //  repoCell.swift
 //  GithubDemo
 //
-//  Created by Jake Vo on 2/16/17.
+//  Created by Oscar Reyes on 2/16/17.
 //  Copyright © 2017 codepath. All rights reserved.
 //
 

@@ -2,7 +2,7 @@
 //  GithubRepo.swift
 //  GithubDemo
 //
-//  Created by Nhan Nguyen on 5/12/15.
+//  Created by Oscar Reyes on 2/16/17.
 //  Copyright (c) 2015 codepath. All rights reserved.
 //
 
